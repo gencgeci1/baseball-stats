@@ -1,0 +1,17 @@
+Package: baseball.stats
+Type: Package
+Title: Baseball Statistics
+Version: 0.1.0
+Author: Griffin Doyle, Shaima Parveen, Genc Geci
+Maintainer: Griffin Doyle <griffindoyle3@gmail.com>
+            Shaima Parveen <sp822@cornell.edu>
+            Genc Geci <gencgeci@yahoo.com>
+Description: The baseball.stats package calculates a variety of offensive and defensive statsitics fo
+            individual baseball players. For offensive statistics, the package can calculate batting average,
+            slugging percentage, on-base percentage, and runs created. For defensive statistcs, the package
+            calculates a pitcher's earned run average (ERA), walks hits per inning pitched (WHIP), a pitcher's
+            win percentage, and a player's fielding average.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
